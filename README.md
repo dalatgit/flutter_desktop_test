@@ -20,6 +20,7 @@ Con esto puedo entonces recomendar utilizar Flutter para empezar a realizar apli
 **Lo que falta mejorar todavía**
 
 - La [guía de accesibilidad de Flutter](https://docs.flutter.dev/development/accessibility-and-localization/accessibility) necesita mayores detalles y claridad al momento de indicar como utilizarlo para crear aplicaciones accesibles. Afortunadamente como ya comprobé con el experimento anterior si es posible y además debido a la inmensa popularidad de Flutter existen abundantes tutoriales creados por terceros en la Internet.
+- Al tratar de navegar con las teclas flecha izquierda y derecha dentro de una caja de texto el lector no anuncia las letras. Esto ya fue reportado como un [problema de accessibilidad en Flutter github](https://github.com/flutter/flutter/issues/95556)
 
 Los invito a conocer Flutter, una alternativa cada vez más interesante para crear aplicaciones accesibles para plataformas móviles y de escritorio.
 

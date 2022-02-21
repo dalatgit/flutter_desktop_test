@@ -19,6 +19,7 @@ Here are the advantages of Flutter over other tools:
 **What needs to be improved**
 
 - [Flutter's accessibility guide](https://docs.flutter.dev/development/accessibility-and-localization/accessibility) needs to be expanded and improved. Luckily Flutter is very popular so many tutorials are available in the Internet.
+- While inside the input text field the screen reader says nothing if you navigate the text using the arrow keys. This has already been reported as an [accessibility issue](https://github.com/flutter/flutter/issues/95556) in their github.
 
 **Conclusion**
 
